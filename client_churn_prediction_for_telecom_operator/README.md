@@ -33,4 +33,4 @@ The data consists of the following files obtained from various sources:
   - `MultipleLines` – the possibility to connect to several lines simultaneously during a call.
 
 ## Libraries used
-CatBoost, Matplotlib, NumPy, pandas, Phi_K, re, Seaborn,  skikit-learn, time
+CatBoost, Matplotlib, NumPy, pandas, Phi_K, re, Seaborn,  scikit-learn, time
