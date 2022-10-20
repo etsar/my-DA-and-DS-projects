@@ -1,7 +1,7 @@
+# Prediction of client churn of the telecom operator "Interconnect"
 ## Goal
 The telecom operator "Interconnect" wants to learn how to predict their client churn. 
 If it turns out that the user is going to leave, they will be offered promotional codes and special conditions.
-
 ## Data
 The data consists of the following files obtained from various sources:
 - `contract.csv` — contains the following information about contracts with clients:
@@ -31,6 +31,5 @@ The data consists of the following files obtained from various sources:
 - `phone.csv` — contains the following information about landline communication services:
   - `customerID` - client's identification number,
   - `MultipleLines` – the possibility to connect to several lines simultaneously during a call.
-
 ## Libraries used
 CatBoost, Matplotlib, NumPy, pandas, Phi_K, re, Seaborn,  scikit-learn, time
